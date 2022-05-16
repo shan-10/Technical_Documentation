@@ -1,8 +1,10 @@
 # Technical_Documentation
 
+**https://shan-10.github.io/Technical_Documentation/**
+
 This Technical Documentation page is a project from freeCodeCamp.
 
-**User Stories**  **https://shan-10.github.io/Technical_Documentation/**
+**User Stories**  
 
 You can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation)
 
