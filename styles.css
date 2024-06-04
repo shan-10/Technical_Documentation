@@ -2,7 +2,7 @@
 html,
 body {
  min-width: 290px;
- color: #4d4e53;
+ color: rgb(0,0,0);
  background: linear-gradient(to right, #f8f9fa, #e0e0e0);
  /* Gradient background for better contrast */
  font-family: 'Open Sans', Arial, sans-serif;
